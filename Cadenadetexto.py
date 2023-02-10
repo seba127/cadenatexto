@@ -5,4 +5,5 @@ while (len(Palabra) > 40) or (Palabra.isalpha()):
 else:
         print (Palabra)
 
-
+## ENTRADA= "ejemplo de texto"
+## SALIDA = ['ejemplo', 'de', 'texto']
